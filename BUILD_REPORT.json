@@ -1,24 +1,27 @@
 {
-  "page_count": 67,
-  "global_design": "Black/white; high-weight headings; black buttons with white text; black header; mobile five-action dock",
-  "bottom_dock": [
-    "Call icon",
-    "WhatsApp icon",
-    "Page top icon",
-    "Home icon",
-    "Book Now text button"
+  "build": "Shadvic Holidays monochrome UI rebuild v3",
+  "html_pages": 67,
+  "unique_titles": 67,
+  "pages_missing_meta_description": [],
+  "local_links_unresolved_count": 0,
+  "local_links_unresolved": [],
+  "theme": "black header + white brand/menu; warm white/silver content; black typography/buttons",
+  "fixed_bottom_actions": [
+    "Book Now (text)",
+    "Call (icon)",
+    "WhatsApp (icon)",
+    "Page Top (icon)",
+    "Home (icon)"
   ],
-  "brand": "Shadvic on first line, Holidays on second line",
-  "sightseeing_route_pages": [
+  "sightseeing_direction_links": [
     "/munnar-to-top-station-taxi/",
     "/munnar-to-thekkady-sightseeing-taxi/",
     "/munnar-to-kochi-sightseeing-taxi/",
     "/munnar-to-coimbatore-sightseeing-taxi/"
   ],
-  "white_media_placeholders": "preserved",
-  "checks": {
-    "duplicate_titles": null,
-    "broken_links": null,
-    "note": "Build-level audit performed; full browser/device visual testing and live competitor crawl not performed."
-  }
+  "known_publish_holds": [
+    "/munnar-to-kochi-sightseeing-taxi/",
+    "/munnar-to-coimbatore-sightseeing-taxi/"
+  ],
+  "visual_browser_test": "Not performed; static structure/link checks only"
 }
