@@ -1,22 +1,24 @@
 {
-  "revision": "2.0",
-  "html_pages": 67,
-  "requested_bottom_bar": [
-    "Call",
-    "WhatsApp",
-    "Home",
-    "Top",
-    "Book Now"
+  "page_count": 67,
+  "global_design": "Black/white; high-weight headings; black buttons with white text; black header; mobile five-action dock",
+  "bottom_dock": [
+    "Call icon",
+    "WhatsApp icon",
+    "Page top icon",
+    "Home icon",
+    "Book Now text button"
   ],
-  "brand_wordmark": "Shatvic / Hollydays",
-  "sightseeing_direction_pages": [
-    "munnar-to-top-station-taxi",
-    "munnar-to-thekkady-sightseeing-taxi",
-    "munnar-to-kochi-sightseeing-taxi",
-    "munnar-to-coimbatore-sightseeing-taxi"
+  "brand": "Shadvic on first line, Holidays on second line",
+  "sightseeing_route_pages": [
+    "/munnar-to-top-station-taxi/",
+    "/munnar-to-thekkady-sightseeing-taxi/",
+    "/munnar-to-kochi-sightseeing-taxi/",
+    "/munnar-to-coimbatore-sightseeing-taxi/"
   ],
-  "white_media_placeholders_preserved": true,
-  "github_pushed": false,
-  "deployed": false,
-  "note": "Static QA only; verify layout on real devices and review route intent before production."
+  "white_media_placeholders": "preserved",
+  "checks": {
+    "duplicate_titles": null,
+    "broken_links": null,
+    "note": "Build-level audit performed; full browser/device visual testing and live competitor crawl not performed."
+  }
 }
