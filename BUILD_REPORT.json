@@ -1,65 +1,22 @@
 {
-  "page_count": 66,
-  "sitemap_register_count": 64,
-  "new_pages_created": 31,
-  "new_page_paths": [
-    "/faq/",
-    "/travel-guide/",
-    "/privacy-policy/",
-    "/cancellation-policy/",
-    "/munnar-etios-sightseeing-taxi/",
-    "/munnar-innova-sightseeing-taxi/",
-    "/one-way-taxi/",
-    "/outstation-taxi/",
-    "/driver-with-guide/",
-    "/activity-transfers/",
-    "/etios-pickup-drop-taxi/",
-    "/innova-pickup-drop-taxi/",
-    "/munnar-to-thekkady-sightseeing-taxi/",
-    "/munnar-to-kochi-sightseeing-taxi/",
-    "/munnar-to-coimbatore-sightseeing-taxi/",
-    "/airport-transfer/",
-    "/railway-station-transfer/",
-    "/munnar-bus-stand-taxi/",
-    "/kovalam-alleppey-taxi/",
-    "/kolukkumalai-safari-transfer/",
-    "/chokramudi-trek-transfer/",
-    "/top-station-sunrise-taxi/",
-    "/kolukkumalai-jeep-safari/",
-    "/anakulam-jeep-safari/",
-    "/meesapulimala-jeep-safari/",
-    "/chathurangapara-jeep-safari/",
-    "/anachal-jeep-safari/",
-    "/camping/",
-    "/devikulam-taxi/",
-    "/chinnakanal-taxi/",
-    "/suryanelli-taxi/"
+  "revision": "2.0",
+  "html_pages": 67,
+  "requested_bottom_bar": [
+    "Call",
+    "WhatsApp",
+    "Home",
+    "Top",
+    "Book Now"
   ],
-  "contact": "+91 9496933154",
-  "media_policy": "blank white placeholders; no stock photos/videos embedded",
-  "brand_wordmark": "text-only Shadvic Holidays; no monogram",
-  "canonical_domain": "not configured; confirm domain before production",
-  "duplicate_title_count": 0,
-  "pages_with_titles": 66,
-  "notes": [
-    "Two route-intent hold pages require owner confirmation before publication.",
-    "Privacy, terms and cancellation pages require owner review.",
-    "This build is not deployed."
+  "brand_wordmark": "Shatvic / Hollydays",
+  "sightseeing_direction_pages": [
+    "munnar-to-top-station-taxi",
+    "munnar-to-thekkady-sightseeing-taxi",
+    "munnar-to-kochi-sightseeing-taxi",
+    "munnar-to-coimbatore-sightseeing-taxi"
   ],
-  "broken_internal_links_count": 0,
-  "broken_internal_links_sample": [],
-  "sitemap_routes_missing": [],
-  "media_placeholder_count": 130,
-  "sitemap_template_url_count": 64,
-  "homepage_trip_planner": "responsive form opens WhatsApp with pickup, destination, date, passenger band and vehicle preference; no live fare calculation",
-  "last_update": "2026-10-20",
-  "change_log": [
-    {
-      "date": "2026-10-20",
-      "change": "Added Indo-Swiss Meadows / Shooting Point to Mattupetty–Kundala–Top Station route highlights on the Top Station taxi page and the Munnar Sightseeing Taxi hub; updated metadata and added FAQs; included SEO query research and naming verification note."
-    }
-  ],
-  "seo_research_files": [
-    "INDO-SWISS-MEADOWS-SEO-RESEARCH.md"
-  ]
+  "white_media_placeholders_preserved": true,
+  "github_pushed": false,
+  "deployed": false,
+  "note": "Static QA only; verify layout on real devices and review route intent before production."
 }
