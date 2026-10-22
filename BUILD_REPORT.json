@@ -1,10 +1,16 @@
 {
-  "page_count": 66,
-  "html_count": 67,
-  "updated_brand_wordmark": "Shadvic / Holidays",
-  "bottom_action_dock_pages": 67,
-  "organized_menu_pages": 67,
-  "four_direction_hub": true,
-  "media_placeholder_count": 131,
-  "status": "static UI revision applied; deployment and browser/device testing not performed"
+  "build": "Shadvic Holidays UI refinement",
+  "html_pages": 67,
+  "features": [
+    "owner-only media areas are blank; customer-facing placeholder instructions removed",
+    "menu opens/closes and category subpages expand",
+    "organized navigation includes every HTML route found",
+    "mobile dock has Book Now text plus Call, WhatsApp, Page Top, Home icons",
+    "responsive text sizes increased for readability",
+    "brand wordmark uses Shadvic / Holidays capitalization"
+  ],
+  "notes": [
+    "Static checks only; real browser/device testing is still required.",
+    "Review route-intent holds and all commercial claims before production."
+  ]
 }
