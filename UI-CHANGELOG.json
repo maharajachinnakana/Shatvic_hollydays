@@ -1,0 +1,14 @@
+{
+  "theme": "warm white/light silver content with black text; black top nav with white brand/menu; black rounded mobile bottom dock with white icons",
+  "bottom_actions": [
+    "Book Now",
+    "Call",
+    "WhatsApp",
+    "Page Top",
+    "Home"
+  ],
+  "bottom_bar_replaced_pages": 67,
+  "brand_wordmark": "Shadvic / Holidays (S and H capitalized)",
+  "whatsapp_icon": "custom inline WhatsApp-like vector glyph; no external icon dependency",
+  "note": "Static code QA only; visual browser/device QA still recommended."
+}
