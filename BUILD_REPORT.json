@@ -1,27 +1,10 @@
 {
-  "build": "Shadvic Holidays monochrome UI rebuild v3",
-  "html_pages": 67,
-  "unique_titles": 67,
-  "pages_missing_meta_description": [],
-  "local_links_unresolved_count": 0,
-  "local_links_unresolved": [],
-  "theme": "black header + white brand/menu; warm white/silver content; black typography/buttons",
-  "fixed_bottom_actions": [
-    "Book Now (text)",
-    "Call (icon)",
-    "WhatsApp (icon)",
-    "Page Top (icon)",
-    "Home (icon)"
-  ],
-  "sightseeing_direction_links": [
-    "/munnar-to-top-station-taxi/",
-    "/munnar-to-thekkady-sightseeing-taxi/",
-    "/munnar-to-kochi-sightseeing-taxi/",
-    "/munnar-to-coimbatore-sightseeing-taxi/"
-  ],
-  "known_publish_holds": [
-    "/munnar-to-kochi-sightseeing-taxi/",
-    "/munnar-to-coimbatore-sightseeing-taxi/"
-  ],
-  "visual_browser_test": "Not performed; static structure/link checks only"
+  "page_count": 66,
+  "html_count": 67,
+  "updated_brand_wordmark": "Shadvic / Holidays",
+  "bottom_action_dock_pages": 67,
+  "organized_menu_pages": 67,
+  "four_direction_hub": true,
+  "media_placeholder_count": 131,
+  "status": "static UI revision applied; deployment and browser/device testing not performed"
 }
