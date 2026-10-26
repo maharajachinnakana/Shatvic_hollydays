@@ -1,0 +1,80 @@
+# Shadvic Holidays
+
+> Private taxi service in Munnar, Kerala: sightseeing, airport and station transfers, outstation drives, jeep-safari enquiries and custom Kerala tours. Fares are listed per private vehicle and confirmed in writing before travel.
+
+Phone and WhatsApp: +91 94969 33154
+Last updated: 2026-10-25
+
+## Fares (starting, per vehicle, INR)
+- [Cochin Airport to Munnar](https://YOUR-CONFIRMED-DOMAIN/cochin-airport-to-munnar-taxi/): Swift Dzire ₹3,500, Etios ₹3,800, Ertiga ₹4,550, Innova Crysta ₹5,250 and Innova Hycross ₹5,600
+- [Coimbatore Airport to Munnar](https://YOUR-CONFIRMED-DOMAIN/coimbatore-airport-to-munnar-taxi/): Swift Dzire ₹6,000, Etios ₹6,300, Ertiga ₹7,800, Innova Crysta ₹9,000 and Innova Hycross ₹9,600
+- [Madurai Airport to Munnar](https://YOUR-CONFIRMED-DOMAIN/madurai-airport-to-munnar-taxi/): Swift Dzire ₹5,500, Etios ₹5,800, Ertiga ₹7,150, Innova Crysta ₹8,250 and Innova Hycross ₹8,800
+- [Trivandrum Airport to Munnar](https://YOUR-CONFIRMED-DOMAIN/trivandrum-airport-to-munnar-taxi/): Swift Dzire ₹7,500, Etios ₹7,800, Ertiga ₹9,750, Innova Crysta ₹11,250 and Innova Hycross ₹12,000
+- [Aluva to Munnar](https://YOUR-CONFIRMED-DOMAIN/aluva-to-munnar-taxi/): Swift Dzire ₹3,500, Etios ₹3,800, Ertiga ₹4,550, Innova Crysta ₹5,250 and Innova Hycross ₹5,600
+- [Ernakulam to Munnar](https://YOUR-CONFIRMED-DOMAIN/ernakulam-to-munnar-taxi/): Swift Dzire ₹4,500, Etios ₹4,800, Ertiga ₹5,850, Innova Crysta ₹6,750 and Innova Hycross ₹7,200
+- [Bodinayakanur to Munnar](https://YOUR-CONFIRMED-DOMAIN/bodinayakanur-to-munnar-taxi/): Swift Dzire ₹3,000, Etios ₹3,500, Ertiga ₹3,700, Innova ₹4,000, Innova Crysta ₹4,500, Innova Hycross ₹4,500, Traveller ₹5,500 and Urbania ₹6,500
+- [Madurai City to Munnar](https://YOUR-CONFIRMED-DOMAIN/madurai-to-munnar-taxi/): Swift Dzire ₹4,000, Etios ₹4,500, Ertiga ₹4,700, Innova ₹5,500, Innova Crysta ₹6,500, Innova Hycross ₹6,500, Traveller ₹7,500 and Urbania ₹8,500
+- [Kochi to Munnar](https://YOUR-CONFIRMED-DOMAIN/kochi-munnar-taxi/): Swift Dzire ₹3,500, Etios ₹3,700, Ertiga ₹3,900, Innova ₹4,500, Innova Crysta ₹5,000 and Innova Hycross ₹5,000
+- [Alleppey to Munnar](https://YOUR-CONFIRMED-DOMAIN/alleppey-munnar-taxi/): Swift Dzire ₹4,500, Etios ₹5,000, Ertiga ₹5,500, Innova ₹6,000, Innova Crysta ₹6,500 and Innova Hycross ₹6,500
+- [Munnar to Thekkady](https://YOUR-CONFIRMED-DOMAIN/munnar-thekkady-taxi/): Swift Dzire ₹3,000, Etios ₹3,500, Ertiga ₹3,700, Innova ₹4,000, Innova Crysta ₹4,500, Innova Hycross ₹4,500, Traveller ₹5,000 and Urbania ₹6,000
+- [Kochi to Athirappilly](https://YOUR-CONFIRMED-DOMAIN/kochi-athirappilly-taxi/): Swift Dzire ₹3,000, Etios ₹3,500, Ertiga ₹3,700, Innova ₹4,000, Innova Crysta ₹4,500, Innova Hycross ₹4,500, Traveller ₹5,000 and Urbania ₹6,000
+- [Athirappilly to Munnar](https://YOUR-CONFIRMED-DOMAIN/athirappilly-munnar-taxi/): Swift Dzire ₹5,500, Etios ₹6,000, Ertiga ₹7,000, Innova ₹7,500, Innova Crysta ₹8,500, Innova Hycross ₹9,000, Traveller ₹11,000 and Urbania ₹13,000
+- [Kochi to Alleppey](https://YOUR-CONFIRMED-DOMAIN/kochi-alleppey-taxi/): Swift Dzire ₹2,900, Etios ₹3,000, Ertiga ₹3,200, Innova ₹3,500, Innova Crysta ₹4,000, Innova Hycross ₹4,000, Traveller ₹5,000 and Urbania ₹6,000
+- [Munnar to Varkala](https://YOUR-CONFIRMED-DOMAIN/munnar-varkala-taxi/): Swift Dzire ₹8,500, Etios ₹9,000, Ertiga ₹11,000, Innova ₹13,000, Innova Crysta ₹14,000, Innova Hycross ₹14,500, Traveller ₹16,000 and Urbania ₹18,000
+- [Varkala to Trivandrum](https://YOUR-CONFIRMED-DOMAIN/varkala-trivandrum-taxi/): Swift Dzire ₹2,000, Etios ₹2,300, Ertiga ₹3,500, Innova ₹4,000, Innova Crysta ₹4,500, Innova Hycross ₹5,000, Traveller ₹6,000 and Urbania ₹7,500
+- [Trivandrum to Kovalam](https://YOUR-CONFIRMED-DOMAIN/trivandrum-kovalam-taxi/): Swift Dzire ₹1,500, Etios ₹1,800, Ertiga ₹2,000, Innova ₹2,500, Innova Crysta ₹3,000, Innova Hycross ₹3,200, Traveller ₹4,000 and Urbania ₹5,000
+- [Kovalam to Munnar](https://YOUR-CONFIRMED-DOMAIN/kovalam-munnar-taxi/): Swift Dzire ₹9,000, Etios ₹9,500, Ertiga ₹11,500, Innova ₹12,000, Innova Crysta ₹13,000, Innova Hycross ₹13,500, Traveller ₹15,000 and Urbania ₹17,000
+- [Kovalam to Alleppey](https://YOUR-CONFIRMED-DOMAIN/kovalam-alleppey-taxi/): Swift Dzire ₹5,000, Etios ₹5,500, Ertiga ₹6,500, Innova ₹7,000, Innova Crysta ₹8,000, Innova Hycross ₹8,500, Traveller ₹11,000 and Urbania ₹13,000
+
+## Key pages
+- [Home](https://YOUR-CONFIRMED-DOMAIN/): Private taxi in Munnar: sightseeing, airport and station transfers, jeep-safari enquiries and Kerala tours. Fares per vehicle. Call +91 94969 33154.
+- [Munnar Taxi](https://YOUR-CONFIRMED-DOMAIN/munnar-taxi/): Private taxi in Munnar for local trips, resort pickups, sightseeing and transfers. Fares are listed per vehicle. Call or WhatsApp +91 94969 33154.
+- [Munnar Bus Stand Taxi](https://YOUR-CONFIRMED-DOMAIN/munnar-bus-stand-taxi/): Arriving at Munnar bus stand? Book a private taxi to your resort or hotel. Share the property name and get a written fare before you travel.
+- [Driver with Local Help](https://YOUR-CONFIRMED-DOMAIN/driver-with-guide/): Hire a taxi with a driver who knows Munnar's roads, timings and stops. A driver is not a licensed guide; ask us about guided treks separately.
+- [Sightseeing](https://YOUR-CONFIRMED-DOMAIN/munnar-sightseeing-taxi/): Plan Munnar sightseeing by private taxi: Mattupetty, Indo-Swiss Meadows, Echo Point, Kundala and Top Station. Fares from ₹2,000 per vehicle.
+- [Top Station Route](https://YOUR-CONFIRMED-DOMAIN/munnar-to-top-station-taxi/): Private taxi from Munnar to Top Station via Mattupetty, Echo Point and Kundala Lake. Starting fares from ₹2,000 per vehicle, tolls and parking included.
+- [Sunrise Taxi](https://YOUR-CONFIRMED-DOMAIN/munnar-sunrise-taxi/): Early-morning taxis from Munnar to Top Station, Chokramudi, Kolukkumalai, Chathurangapara and Bodimettu. Starting fares from ₹2,000 for a Swift Dzire.
+- [Top Station Sunrise](https://YOUR-CONFIRMED-DOMAIN/top-station-sunrise-taxi/): Private taxi from Munnar to Top Station for sunrise. Starting fare ₹2,000 for a Swift Dzire. Early start, warm layers and weather advice included.
+- [Sunset Taxi](https://YOUR-CONFIRMED-DOMAIN/munnar-sunset-taxi/): Evening taxis from Munnar to Pothamedu, Gap Road, Door of Heaven, Idly Hills and Top Station. Swift Dzire starting fares from ₹500.
+- [Etios Sightseeing](https://YOUR-CONFIRMED-DOMAIN/munnar-etios-sightseeing-taxi/): Etios sightseeing taxi in Munnar for the Mattupetty and Top Station route from ₹2,300 per vehicle. Compact, easy on narrow hill roads.
+- [Innova Sightseeing](https://YOUR-CONFIRMED-DOMAIN/munnar-innova-sightseeing-taxi/): Innova Crysta sightseeing taxi in Munnar for the Top Station route from ₹3,000 per vehicle. Room for seven passengers and luggage.
+- [Munnar to Thekkady Tour](https://YOUR-CONFIRMED-DOMAIN/munnar-to-thekkady-sightseeing-taxi/): Drive from Munnar to Thekkady with halts at spice gardens and viewpoints. Starting fares from ₹3,000 per vehicle; stops quoted for your plan.
+- [Munnar to Kochi Tour](https://YOUR-CONFIRMED-DOMAIN/munnar-to-kochi-sightseeing-taxi/): Drive from Munnar to Kochi with waterfall and tea-estate halts. Plan the sightseeing drop with Shadvic Holidays and get a written fare.
+- [Munnar to Coimbatore Tour](https://YOUR-CONFIRMED-DOMAIN/munnar-to-coimbatore-sightseeing-taxi/): Drive from Munnar to Coimbatore with halts at Marayoor and the Chinnar forest road. Plan the sightseeing drop and get a written fare.
+- [Pickup & Drop](https://YOUR-CONFIRMED-DOMAIN/pickup-drop-taxi/): Private pickup and drop taxis to and from Munnar: Cochin, Coimbatore, Madurai and Trivandrum airports, plus Aluva and Ernakulam stations. Fares listed.
+- [Airport Transfers](https://YOUR-CONFIRMED-DOMAIN/airport-transfer/): Airport taxi transfers to Munnar from Cochin, Coimbatore, Madurai and Trivandrum airports. Compare starting fares by vehicle and book on WhatsApp.
+- [Railway Station Transfers](https://YOUR-CONFIRMED-DOMAIN/railway-station-transfer/): Taxi from Aluva, Ernakulam, Madurai and Bodinayakanur stations to Munnar. Compare starting fares per vehicle and book on WhatsApp.
+- [Etios Pickup & Drop](https://YOUR-CONFIRMED-DOMAIN/etios-pickup-drop-taxi/): Etios taxi for airport and station pickups in Kerala. Starting fares per vehicle by route, from ₹1,800. Compact sedan for up to four passengers.
+- [Innova Pickup & Drop](https://YOUR-CONFIRMED-DOMAIN/innova-pickup-drop-taxi/): Innova, Crysta and Hycross taxi for airport and station pickups in Kerala. Starting fares per vehicle by route. Seats up to seven passengers.
+- [One-way & Outstation](https://YOUR-CONFIRMED-DOMAIN/outstation-taxi/): One-way outstation taxis between Munnar, Kochi, Alleppey, Thekkady, Athirappilly, Varkala and Kovalam. Compare starting fares per vehicle.
+- [One-way Taxi Guide](https://YOUR-CONFIRMED-DOMAIN/one-way-taxi/): What a one-way taxi means in Kerala, how fares are shown, and when it saves you money. Fares per vehicle with tolls and parking included in the confirmed fare.
+- [Jeep Safari & Treks](https://YOUR-CONFIRMED-DOMAIN/munnar-jeep-safari/): Munnar's off-road trails each have their own road conditions, rules and operators, so we confirm the exact route, inclusions and price before you.
+- [Kolukkumalai Jeep Safari](https://YOUR-CONFIRMED-DOMAIN/kolukkumalai-jeep-safari/): Kolukkumalai is a high tea estate known for sunrise views, and the last off-road section needs a local 4WD jeep. Your Munnar taxi does not include.
+- [Kolukkumalai Transfer](https://YOUR-CONFIRMED-DOMAIN/kolukkumalai-safari-transfer/): The Kolukkumalai transfer is the taxi leg only, from Munnar to the jeep point, starting at ₹2,000 for a Swift Dzire. The local 4WD jeep for the final.
+- [Anakulam Jeep Safari](https://YOUR-CONFIRMED-DOMAIN/anakulam-jeep-safari/): Anakulam is a forest-edge area about 40 km from Munnar known for wild-elephant sightings from a safe distance. Sightings are never guaranteed, and we.
+- [Meesapulimala](https://YOUR-CONFIRMED-DOMAIN/meesapulimala-jeep-safari/): Meesapulimala is among the highest peaks of the Western Ghats and is reached by a jeep track followed by a trek. Access needs forest-department.
+- [Chathurangapara](https://YOUR-CONFIRMED-DOMAIN/chathurangapara-jeep-safari/): Chathurangapara is a hill viewpoint reached with a short local jeep ride. The Swift Dzire taxi leg starts at ₹2,400, with the jeep at ₹1,200.
+- [Anachal](https://YOUR-CONFIRMED-DOMAIN/anachal-jeep-safari/): Anachal is on our list of off-road enquiries around Munnar. Because trails and operators vary, share your date and group and we confirm what is.
+- [Chokramudi Trek Transfer](https://YOUR-CONFIRMED-DOMAIN/chokramudi-trek-transfer/): Chokramudi is a trek-style sunrise outing near Munnar. The taxi transfer starts at ₹2,000 for a Swift Dzire, and the trek (about ₹500) is separate.
+- [Activity Transfers](https://YOUR-CONFIRMED-DOMAIN/activity-transfers/): Need a taxi to a trek, safari, boating or camping start point? We arrange the transfer and keep the activity price separate so nothing is.
+- [Tour Packages](https://YOUR-CONFIRMED-DOMAIN/kerala-tour-packages/): Custom Kerala tour planning with a private taxi: Munnar, Thekkady, Alleppey, Kochi and the south coast. Share dates and we plan the route.
+- [Stays & Camping](https://YOUR-CONFIRMED-DOMAIN/rooms-stays/): Looking for a Munnar stay? Share your dates and group size and we help you enquire about hotels, resorts, homestays and camps, with taxi pickup.
+- [Camping](https://YOUR-CONFIRMED-DOMAIN/camping/): Planning camping near Munnar? Ask about location, safety, facilities and inclusions before booking. Share dates and group size for an enquiry.
+- [Destinations](https://YOUR-CONFIRMED-DOMAIN/destinations/): Plan Munnar places: Top Station, Mattupetty, Kolukkumalai, Devikulam, Chinnakanal and Suryanelli. Distances, timing and taxi links.
+- [Devikulam](https://YOUR-CONFIRMED-DOMAIN/devikulam-taxi/): Devikulam is a quiet hill area near Munnar with a small lake and green meadows. We quote the taxi for your date and plan once you share your pickup.
+- [Chinnakanal](https://YOUR-CONFIRMED-DOMAIN/chinnakanal-taxi/): Chinnakanal is known for waterfalls and tea-estate views. Water levels vary with season, and we confirm access and timing when you share your.
+- [Suryanelli](https://YOUR-CONFIRMED-DOMAIN/suryanelli-taxi/): Suryanelli is a quiet estate village on the road to Kolukkumalai and Meesapulimala. Taxi fares depend on your plan and pickup, and are confirmed in.
+- [Munnar Travel Guide](https://YOUR-CONFIRMED-DOMAIN/travel-guide/): Plan your Munnar trip: best time to visit, how to reach, how many days, what to pack and how to book a taxi. Updated October 2026.
+- [Book Now](https://YOUR-CONFIRMED-DOMAIN/book-now/): Book your Munnar taxi: send persons, trip type, dates and locations on WhatsApp. We reply with a written fare before you travel.
+- [Contact](https://YOUR-CONFIRMED-DOMAIN/contact/): Contact Shadvic Holidays in Munnar, Kerala: call or WhatsApp +91 94969 33154 for taxi fares, transfers and tour planning.
+- [About](https://YOUR-CONFIRMED-DOMAIN/about/): Shadvic Holidays is a Munnar taxi and tour service run on listed per-vehicle fares and honest terms. Learn how we work.
+- [FAQ](https://YOUR-CONFIRMED-DOMAIN/faq/): Answers to common questions about Munnar taxi fares, airport transfers, sightseeing, jeep safaris, tolls, payment and cancellations.
+- [Privacy Policy](https://YOUR-CONFIRMED-DOMAIN/privacy-policy/): How this website handles your information. The booking form opens WhatsApp and does not store your details on this site.
+- [Terms](https://YOUR-CONFIRMED-DOMAIN/terms/): Plain-language terms for Shadvic Holidays taxi and travel enquiries: fares, inclusions, changes and responsibilities.
+- [Cancellation Policy](https://YOUR-CONFIRMED-DOMAIN/cancellation-policy/): How to change or cancel a Shadvic Holidays booking. Message us early; specific terms are confirmed with each booking.
+- [Site Map](https://YOUR-CONFIRMED-DOMAIN/site-map/): Every page on the Shadvic Holidays website in one list: taxi, sightseeing, transfers, outstation routes, jeep safaris, packages and information.
+
+## Terms
+- Fares are per vehicle, not per person.
+- Tolls, parking and driver allowance are included in the confirmed fare.
+- Entry tickets, boating, trekking and jeep safaris are separate unless stated.
