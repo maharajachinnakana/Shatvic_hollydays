@@ -237,3 +237,10 @@ table.plain td{background:none;color:#b97f00;font-weight:700}
 .foot-tel{color:var(--aub);text-decoration:none}
 .drawer-foot a{color:var(--gold);text-decoration:none}
 .endcta .btn.line span{color:#fff}
+
+/* bottom dock: white Book now pill, bigger solid white icons */
+.dock-book{background:#fff;color:#0c0c0d;border:0;font-weight:800}
+.dock-book:active{background:var(--silver);color:#0c0c0d}
+.dock-i svg{width:29px;height:29px}
+.dock-i{color:#fff}
+.dock-bar{padding:7px 10px 7px 7px}
