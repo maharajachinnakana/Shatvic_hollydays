@@ -2,7 +2,7 @@
 @font-face{font-family:"Bricolage";src:url(../fonts/display.woff2) format("woff2");font-weight:200 800;font-display:swap}
 @font-face{font-family:"Figtree";src:url(../fonts/body.woff2) format("woff2");font-weight:300 900;font-display:swap}
 :root{
-  --ink:#0c0c0d;--ink2:#1b1b1d;--ink3:#2c2c2f;--paper:#f4f1ec;--card:#fbfaf7;--silver:#e4e2de;--line:#d3d0ca;--mute:#5d5b57;--text:#17171a;--white:#fff;--ice:#dde3e8;--aub:#3a0f34;--gold:#eaaa00;
+  --ink:#0c0c0d;--ink2:#1b1b1d;--ink3:#2c2c2f;--paper:#f4f1ec;--card:#fbfaf7;--silver:#e4e2de;--line:#d3d0ca;--mute:#5d5b57;--text:#17171a;--white:#fff;--ice:#dde3e8;--aub:#3a0f34;--maroon:#7b1020;--gold:#eaaa00;
   --r:18px;--col:520px;--head:60px;
   --f-d:"Bricolage","Segoe UI",system-ui,sans-serif;--f-b:"Figtree","Segoe UI",system-ui,sans-serif;
 }
@@ -61,7 +61,7 @@ body.nav-open,body.sheet-open{overflow:hidden}body.nav-open .dock{display:none}
 .crumbs a{text-decoration:none}
 .crumbs [aria-current]{color:var(--text);font-weight:600}
 .eyebrow{font-size:12px;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--mute);margin-bottom:10px}
-.hero h1{color:var(--aub);font-size:clamp(34px,10vw,46px);font-weight:800;max-width:11em;margin-bottom:14px}
+.hero h1{color:var(--maroon);font-size:clamp(34px,10vw,46px);font-weight:800;max-width:11em;margin-bottom:14px}
 .answer{font-size:16.5px;line-height:1.55;max-width:34em;color:#2a2a2d}
 .answer a{font-weight:600}
 .hero-cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
@@ -91,7 +91,7 @@ body.nav-open,body.sheet-open{overflow:hidden}body.nav-open .dock{display:none}
 /* ---------- sections ---------- */
 main>section.blk,main>section.ticket,main>section.endcta{margin:0 18px}
 .blk{padding:30px 0 6px}
-.blk h2{font-size:26px;font-weight:700;margin-bottom:16px;color:var(--ink)}.blk h2::after,.endcta h2::after,.ticket-head h2::after{content:"";display:block;width:44px;height:4px;border-radius:4px;background:var(--gold);margin-top:8px}.answer strong,.blk strong,.ans strong,mark{font-weight:700;color:inherit;background:linear-gradient(transparent 80%,var(--gold) 80%);padding:0 1px}
+.blk h2{font-size:26px;font-weight:700;margin-bottom:16px}.answer strong,.blk strong,.ans strong,mark{font-weight:700;color:inherit;background:linear-gradient(transparent 80%,var(--gold) 80%);padding:0 1px}
 .blk p{margin-bottom:12px;max-width:38em}
 .blk a{text-underline-offset:3px}
 .tick{list-style:none;display:grid;gap:10px;margin-bottom:12px}
@@ -215,3 +215,23 @@ table.plain tr:last-child>*{border-bottom:0}
 .sitemap-tree>li>a{font-weight:800;font-size:17px}
 @media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;animation-delay:0s!important;transition-duration:.01ms!important;scroll-behavior:auto!important}.hairpin .road{stroke-dashoffset:0}.hairpin .lane,.hairpin .peak{opacity:1}}
 @media print{.bar,.dock,.drawer,.scrim{display:none}body{padding:0;max-width:none}}
+
+/* headings: colour + full-text gold underline */
+h2,h3{color:var(--aub)}
+.hero h1,.blk h2,.ticket-head h2,.endcta h2{text-decoration:underline;text-decoration-color:var(--gold);text-decoration-thickness:4px;text-underline-offset:7px;text-decoration-skip-ink:none}
+.endcta h2,.endcta h3,.foot h2,.sheet-head h2{color:#fff}
+.foot h2{color:var(--aub);text-decoration:none}
+.sheet-head h2{text-decoration:none}
+.tile h3,.road-list h3,.steps h3{color:var(--aub)}
+/* gold highlights: prices, Book now, contact number */
+.ticket td:nth-child(2),table.plain td{background-image:linear-gradient(transparent 82%,var(--gold) 82%);background-repeat:no-repeat;background-size:fit-content 100%}
+.ticket td:nth-child(2){background-position:right 8px bottom 0}
+.finder-out{text-decoration:underline;text-decoration-color:var(--gold);text-decoration-thickness:3px;text-underline-offset:5px}
+.dock-book{color:var(--gold);border-color:var(--gold)}
+.dock-book:active{background:var(--gold);color:var(--ink)}
+.btn.solid{color:var(--gold)}
+.btn.inv.solid{color:var(--ink)}
+.foot-tel,.drawer-foot a{color:var(--aub);text-decoration:underline;text-decoration-color:var(--gold);text-decoration-thickness:3px;text-underline-offset:4px}
+.drawer-foot a,.endcta .btn.line span{color:var(--gold)}
+.endcta .btn.inv.solid{color:var(--ink)}
+.hero h1,.blk h2,.ticket-head h2,.endcta h2{line-height:1.3}
