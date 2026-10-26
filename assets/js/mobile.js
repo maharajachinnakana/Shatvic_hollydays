@@ -91,6 +91,26 @@
     else if (burger.getAttribute("aria-expanded") === "true") { setNav(false); burger.focus(); }
   });
 
+  /* ---------- dock: hide while scrolling down, show on scroll up / 3s idle ---------- */
+  (function () {
+    if (!dock) return;
+    var lastY = window.pageYOffset, idle = null, ticking = false;
+    function show() { dock.classList.remove("is-hidden"); }
+    function arm() { clearTimeout(idle); idle = setTimeout(show, 3000); }
+    function onScroll() {
+      var y = window.pageYOffset, dy = y - lastY;
+      if (dock.getAttribute("data-state") === "open" || body.classList.contains("nav-open")) { show(); lastY = y; return; }
+      var atEnd = window.innerHeight + y >= document.documentElement.scrollHeight - 8;
+      if (y < 80 || atEnd || dy < -6) show();
+      else if (dy > 6) { dock.classList.add("is-hidden"); }
+      if (Math.abs(dy) > 6) lastY = y;
+      arm();
+    }
+    window.addEventListener("scroll", function () { if (!ticking) { ticking = true; requestAnimationFrame(function () { onScroll(); ticking = false; }); } }, { passive: true });
+    ["touchend", "touchcancel"].forEach(function (ev) { window.addEventListener(ev, arm, { passive: true }); });
+    dock.addEventListener("focusin", show);
+  })();
+
   /* date minimum */
   var d = new Date(), iso = d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
   $$('input[type=date]').forEach(function (i) { i.min = iso; });

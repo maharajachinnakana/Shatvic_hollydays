@@ -244,3 +244,14 @@ table.plain td{background:none;color:#b97f00;font-weight:700}
 .dock-i svg{width:29px;height:29px}
 .dock-i{color:#fff}
 .dock-bar{padding:7px 10px 7px 7px}
+
+/* dock hides on scroll down, returns on scroll up or after 3s idle */
+.dock{transition:transform .35s cubic-bezier(.2,.8,.2,1),border-radius .2s}
+.dock.is-hidden{transform:translateY(calc(100% + 40px))}
+@media(prefers-reduced-motion:reduce){.dock{transition:none}}
+/* dock whites -> page background colour */
+.dock-book{background:var(--paper);color:#0c0c0d}
+.dock-book:active{background:var(--silver)}
+.dock-i{color:var(--paper)}
+.dock .send{background:var(--paper)}
+.sheet-x{color:var(--paper);border-color:var(--paper)}
