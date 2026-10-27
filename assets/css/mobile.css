@@ -255,3 +255,22 @@ table.plain td{background:none;color:#b97f00;font-weight:700}
 .dock-i{color:var(--paper)}
 .dock .send{background:var(--paper)}
 .sheet-x{color:var(--paper);border-color:var(--paper)}
+
+/* Book now buttons: big, heavy, edge to edge */
+.hero-cta{flex-direction:column;gap:12px}
+.hero-cta .btn{width:100%;min-height:58px;font-size:19px;font-weight:800;letter-spacing:.01em}
+.btn{font-weight:800}
+.finder .btn,.send{font-size:18px;font-weight:800;min-height:56px;width:100%}
+.pick{font-size:15px;font-weight:800;padding:8px 18px}
+.dock-book{font-size:18px;font-weight:800;padding:0 26px;min-height:48px}
+.dock-bar{padding:6px 10px 6px 6px}
+/* WhatsApp icon: green bubble, light ring, light handset */
+.wa .wa-r{stroke:#fff}.wa .wa-p{fill:#fff}
+.hero-cta .btn.line svg.wa,.btn.line svg.wa{width:34px;height:34px}
+.dock-i svg.wa{width:34px;height:34px}
+.dock-i svg.wa .wa-r{stroke:var(--paper)}.dock-i svg.wa .wa-p{fill:var(--paper)}
+.hero .btn.line{background:var(--paper)}.endcta .btn.line{background:transparent}
+
+.bar-r{display:flex;align-items:center;gap:6px}
+
+.bar-actions{display:none}

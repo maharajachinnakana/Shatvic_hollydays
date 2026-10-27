@@ -64,6 +64,7 @@
     setNav(false);
     lastFocus = document.activeElement;
     prefill(sheet, note, trip, frm, to);
+    dock.classList.remove("is-hidden");
     dock.setAttribute("data-state", "open");
     sheet.hidden = false; scrim.hidden = false;
     body.classList.add("sheet-open");
@@ -91,12 +92,12 @@
     else if (burger.getAttribute("aria-expanded") === "true") { setNav(false); burger.focus(); }
   });
 
-  /* ---------- dock: hide while scrolling down, show on scroll up / 3s idle ---------- */
+  /* ---------- dock: hide while scrolling down, show on scroll up / 1s idle ---------- */
   (function () {
     if (!dock) return;
     var lastY = window.pageYOffset, idle = null, ticking = false;
     function show() { dock.classList.remove("is-hidden"); }
-    function arm() { clearTimeout(idle); idle = setTimeout(show, 3000); }
+    function arm() { clearTimeout(idle); idle = setTimeout(show, 1000); }
     function onScroll() {
       var y = window.pageYOffset, dy = y - lastY;
       if (dock.getAttribute("data-state") === "open" || body.classList.contains("nav-open")) { show(); lastY = y; return; }
