@@ -274,3 +274,10 @@ table.plain td{background:none;color:#b97f00;font-weight:700}
 .bar-r{display:flex;align-items:center;gap:6px}
 
 .bar-actions{display:none}
+
+.hero-aside{display:none}
+img.wa{display:block;width:34px;height:34px;object-fit:contain}
+.dock-i img.wa{width:36px;height:36px}
+.btn img.wa{width:34px;height:34px}
+
+table.plain td{color:inherit;font-weight:400}table.plain td.m{color:#b97f00;font-weight:800}

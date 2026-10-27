@@ -154,6 +154,8 @@
     });
   });
 
+  $$("form.aside").forEach(function (f) { prefill(f); });
+
   /* ---------- fare finder ---------- */
   var dataEl = $("#fares-data"), fd = $("[data-finder]");
   if (dataEl && fd) {
