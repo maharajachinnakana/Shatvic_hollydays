@@ -281,3 +281,15 @@ img.wa{display:block;width:34px;height:34px;object-fit:contain}
 .btn img.wa{width:34px;height:34px}
 
 table.plain td{color:inherit;font-weight:400}table.plain td.m{color:#b97f00;font-weight:800}
+
+/* nested tickets + content boxes */
+.ticket-head{flex-wrap:wrap}
+.ticket-head h2{flex:1 1 170px;min-width:0;font-size:24px!important}
+.chip{flex:none}
+.blk .ticket{margin:18px 0 14px!important}
+.infobox{background:var(--ice);border:1px solid #c9d1d8;border-radius:var(--r);padding:18px 18px 16px;margin:0 0 22px}
+.infobox h3{font-size:19px;margin-bottom:10px}
+.infobox ol{list-style:none;counter-reset:b;display:grid;gap:9px}
+.infobox li{counter-increment:b;position:relative;padding-left:34px;font-size:15.5px}
+.infobox li::before{content:counter(b);position:absolute;left:0;top:1px;width:24px;height:24px;border-radius:50%;background:var(--aub);color:#fff;display:grid;place-items:center;font:700 13px var(--f-d)}
+.box-foot{margin:12px 0 0!important;padding-top:10px;border-top:1px dashed #9aa5ae;font-weight:700;font-size:14.5px;color:var(--aub)}

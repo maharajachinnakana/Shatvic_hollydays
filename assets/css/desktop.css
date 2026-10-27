@@ -117,3 +117,6 @@ main>section.ticket{max-width:none;margin-top:40px!important}
 .related .linklist{grid-template-columns:repeat(2,1fr)}
 .hero-home{padding-top:72px}
 .hero-home h1{font-size:76px}
+.ticket-head h2{font-size:26px!important}
+.blk .ticket{max-width:none}
+.infobox{max-width:none}
