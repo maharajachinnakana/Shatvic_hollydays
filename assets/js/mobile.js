@@ -1,4 +1,4 @@
-/* Shadvic Holidays - mobile JS (no dependencies) */
+/* Shatvik Holidays - mobile JS (no dependencies) */
 (function () {
   "use strict";
   var $ = function (s, r) { return (r || document).querySelector(s); };
@@ -138,7 +138,7 @@
       e.preventDefault();
       if (!validate(f)) { var b = f.querySelector(".bad input,.bad select"); if (b) b.focus(); return; }
       var el = f.elements, lines = [
-        "Hello Shadvic Holidays, I would like to enquire about a taxi.",
+        "Hello Shatvik Holidays, I would like to enquire about a taxi.",
         "",
         "Persons: " + el.persons.value,
         "Trip type: " + el.type.value,

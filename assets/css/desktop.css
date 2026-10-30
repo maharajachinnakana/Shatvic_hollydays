@@ -1,4 +1,4 @@
-/* Shadvic Holidays - desktop CSS (loads at 1024px and up) */
+/* Shatvik Holidays - desktop CSS (loads at 1024px and up) */
 :root{--wrap:1120px;--gut:max(32px,calc((100vw - var(--wrap)) / 2))}
 body{max-width:none;margin:0;box-shadow:none;padding-bottom:96px;font-size:17px}
 
