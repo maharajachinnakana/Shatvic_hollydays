@@ -122,3 +122,5 @@ main>section.ticket{max-width:none;margin-top:40px!important}
 .infobox{max-width:none}
 
 .atlas{grid-template-columns:repeat(2,1fr)}
+
+@media(hover:hover){a.tile:hover{transform:translateY(-3px);box-shadow:0 18px 30px -20px rgba(31,107,80,.6)}.atlas-g li a:hover{background:var(--tea);color:#fff}}

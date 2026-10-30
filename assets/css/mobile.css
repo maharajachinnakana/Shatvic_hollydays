@@ -300,3 +300,45 @@ table.plain td{color:inherit;font-weight:400}table.plain td.m{color:#b97f00;font
 .atlas-g ul{list-style:none;display:flex;flex-wrap:wrap;gap:6px 8px}
 .atlas-g li a{display:inline-block;padding:6px 12px;border-radius:999px;background:var(--silver);font-size:14px;text-decoration:none}
 .atlas-g h3 a{text-decoration:none}
+
+/* ---- Fresh accent: Munnar tea green + mist mint + marigold cream. Header and dock untouched. ---- */
+:root{--tea:#1f6b50;--tea2:#2f8a68;--mint:#e2efe6;--cream:#f7edc8;--lilac:#ece2ea}
+main .eyebrow{color:var(--tea);display:inline-flex;align-items:center;gap:8px}
+main .eyebrow::before{content:"";width:9px;height:9px;border-radius:50%;background:var(--tea2);box-shadow:0 0 0 4px var(--mint)}
+.hero{background:radial-gradient(120% 70% at 100% 0,var(--mint) 0,rgba(226,239,230,0) 60%),linear-gradient(180deg,var(--ice) 0,var(--paper) 100%)}
+.facts li:nth-child(1){background:var(--mint);border-color:#c3dccb}
+.facts li:nth-child(2){background:var(--ice);border-color:#c9d1d8}
+.facts li:nth-child(3){background:var(--cream);border-color:#ead9a0}
+.facts li:nth-child(4){background:var(--lilac);border-color:#d8c6d4}
+.blk h2::before{content:"";display:block;width:34px;height:5px;border-radius:5px;background:linear-gradient(90deg,var(--tea2),var(--gold));margin-bottom:12px}
+.tile{border-left:5px solid var(--tea2);box-shadow:0 1px 0 rgba(12,12,13,.04),0 8px 18px -14px rgba(31,107,80,.45)}
+.tiles .tile:nth-child(4n+2){border-left-color:var(--gold)}
+.tiles .tile:nth-child(4n+3){border-left-color:var(--aub)}
+.tiles .tile:nth-child(4n+4){border-left-color:#7aa7c4}
+.tile .go{background:var(--tea);color:#fff}
+table.plain thead th{background:var(--aub)}
+table.plain tbody tr:nth-child(even){background:rgba(226,239,230,.45)}
+.atlas-g{border-top:4px solid var(--tea2)}
+.atlas-g li a{background:var(--mint);color:var(--tea)}
+.atlas-g h3 a{color:var(--aub)}
+.blk ul:not(.atlas-g ul)>li::marker{color:var(--tea2)}
+.endcta{background:linear-gradient(135deg,var(--aub),#1d3b34)!important}
+
+/* ---- UI detailing ---- */
+.tile{overflow:hidden;border-left:1px solid var(--line);transition:transform .15s ease,box-shadow .15s ease}
+.tile::before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--tea2)}
+.tiles .tile:nth-child(4n+2)::before{background:var(--gold)}
+.tiles .tile:nth-child(4n+3)::before{background:var(--aub)}
+.tiles .tile:nth-child(4n+4)::before{background:#7aa7c4}
+.tile{padding-left:22px}
+a.tile:active{transform:scale(.985)}
+.atlas-g li a{padding:11px 14px;min-height:44px;display:inline-flex;align-items:center}
+.facts li{box-shadow:0 10px 18px -16px rgba(12,12,13,.5)}
+.blk h2{margin-bottom:14px}
+.blk p,.blk li{line-height:1.62}
+table.plain{border-radius:14px;overflow:hidden}
+.box{border-radius:16px}
+.faq details{border-radius:14px}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--tea2);outline-offset:3px}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+@media(max-width:520px){table.plain th,table.plain td{padding:10px 7px;font-size:14px}table.plain thead th{font-size:10.5px;letter-spacing:.02em;white-space:normal;line-height:1.2}}
