@@ -120,3 +120,5 @@ main>section.ticket{max-width:none;margin-top:40px!important}
 .ticket-head h2{font-size:26px!important}
 .blk .ticket{max-width:none}
 .infobox{max-width:none}
+
+.atlas{grid-template-columns:repeat(2,1fr)}
